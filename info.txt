@@ -1,2 +1,7 @@
 Bonjour Emilie
-on va faire git stash
+
+Bonjour Mickael.
+
+Bonjour Hamza.
+
+On va faire git stash
