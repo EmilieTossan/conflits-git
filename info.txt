@@ -1,1 +1,2 @@
 Bonjour Emilie
+on va faire git stash
